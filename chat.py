@@ -6,7 +6,7 @@ import streamlit as st
 
 load_dotenv()
 
-#The product list is taken from Yennhi95zz medium blog post. Credit goes to her for this list
+#The product list is taken from Yennhi95zz's medium blog post. Credit goes to her for this list
 product_list = '''
 # Fashion Shop Product List
 
